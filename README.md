@@ -1,1 +1,1 @@
-# noise2noise_pet_denoise
+# Dynamic PET Image Denoising
